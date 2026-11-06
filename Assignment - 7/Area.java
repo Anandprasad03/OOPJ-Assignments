@@ -8,6 +8,7 @@ class Area {
     void square(int side) {
         System.out.println("Area of square = "+(side*side));
     }
+    
 
     public static void main(String[] args) {
 
